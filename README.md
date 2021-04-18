@@ -254,3 +254,4 @@ Examples
 SELECT * FROM people WHERE email IS NOT NULL;
 SELECT * FROM addresses WHERE zip_code IS NOT NULL;
 ```
+
